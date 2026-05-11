@@ -1,6 +1,6 @@
 {
     "name": "animalese-typing-sounds",
-    "publisher": "SkyDotBit",
+    "publisher": "KevinYGC",
     "displayName": "Animalese Typing Sounds",
     "description": "Heheh you have no idea..",
     "version": "1.1.0",
@@ -10,7 +10,7 @@
     "homepage": "https://skydevs.me",
     "repository": {
         "type": "git",
-        "url": "https://github.com/SkyDotBit/Animalese-for-vscode"
+        "url": "https://github.com/KevinYGC/Animalese-for-windsurf"
     },
     "keywords": [
         "audio",
