@@ -1,8 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-const cp = require('child_process');
 const path = require('path');
-const player = require('play-sound')();
 const _isWindows = process.platform === 'win32';
 const _playerWindowsPath = path.join(__dirname, '..', 'audio', 'ffplay.exe');
 const child_process_1 = require("child_process");
